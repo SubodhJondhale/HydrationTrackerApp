@@ -50,24 +50,30 @@ Charts: For graphical representation of data.
 
 Gif
 
-![Simulator Screen Recording - iPhone 15 Pro - 2024-06-19 at 17 09 38](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/01cb2e0a-5d4c-4da9-aeb3-2d8319007d19)
+![Simulator Screen Recording - iPhone 15 Pro - 2024-06-19 at 17 09 38](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/b1c3dd94-4c8f-4c14-aaa9-fc857faa862e)
 
 
 Screenshots 
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 08 14](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/c27fe05c-2f76-4308-ad10-6f4808514f84)
-
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 00 47](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/68a94161-27ee-406b-a5fb-b5b33d1b8761)
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 08 14](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/bb91ffc6-cf0a-46f7-9869-10182de2a2c4)
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 01 18](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/9eb14f6a-74c4-435f-85dc-ed1ca06b1d94)
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 00 47](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/386c6a8b-c808-4e3d-b218-2e93193c8f54)
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 01 52](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/6227160b-d75a-459b-a5ee-f5783b3a209c)
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 01 18](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/c89873aa-a6fd-4069-8c9b-3effa2d9bd17)
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 01 36](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/f0056698-bda8-44ea-8c62-6552498f9200)
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 01 36](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/6274bd61-428f-473a-ad62-7ccf7e4ad355)
+
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 17 01 52](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/45af9309-f931-46b1-903e-72185df6289b)
+
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-06-19 at 23 18 27](https://github.com/SubodhJondhale/HydrationTrackerApp/assets/122435965/cba69756-9569-4a43-86d6-93a481055af8)
+
+
+
+
 
 
 

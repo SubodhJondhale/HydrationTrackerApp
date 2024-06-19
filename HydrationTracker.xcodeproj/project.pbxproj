@@ -67,7 +67,6 @@
 			children = (
 				D68DE24B2C23450500BABBAC /* Preview Content */,
 				D65D17ED2C20989C000720D3 /* HydrationTrackerApp.swift */,
-				D67214502C21E3450076C4B8 /* Utilities */,
 				D6C14FAE2C2184D300E5F3BF /* Model */,
 				D65D18012C209E05000720D3 /* Views */,
 				D65D17F12C20989D000720D3 /* Assets.xcassets */,
@@ -100,6 +99,7 @@
 		D68DE24B2C23450500BABBAC /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				D67214502C21E3450076C4B8 /* Utilities */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";

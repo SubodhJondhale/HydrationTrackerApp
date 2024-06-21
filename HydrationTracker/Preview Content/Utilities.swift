@@ -17,3 +17,8 @@ class UserData: ObservableObject {
 
 
 
+struct ChartLog: Identifiable {
+    var id = UUID()
+    var date: Date
+    var amount: Double
+}

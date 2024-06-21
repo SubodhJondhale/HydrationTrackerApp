@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D62CD9BA2C256642004F72CD /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D62CD9B92C256642004F72CD /* ChartView.swift */; };
 		D65D17EE2C20989C000720D3 /* HydrationTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D17ED2C20989C000720D3 /* HydrationTrackerApp.swift */; };
 		D65D17F22C20989D000720D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D65D17F12C20989D000720D3 /* Assets.xcassets */; };
 		D65D17FC2C2098FB000720D3 /* LogListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D17FB2C2098FB000720D3 /* LogListView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D62CD9B92C256642004F72CD /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
 		D65D17EA2C20989C000720D3 /* HydrationTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HydrationTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D65D17ED2C20989C000720D3 /* HydrationTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HydrationTrackerApp.swift; sourceTree = "<group>"; };
 		D65D17F12C20989D000720D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -65,12 +67,12 @@
 		D65D17EC2C20989C000720D3 /* HydrationTracker */ = {
 			isa = PBXGroup;
 			children = (
-				D68DE24B2C23450500BABBAC /* Preview Content */,
 				D65D17ED2C20989C000720D3 /* HydrationTrackerApp.swift */,
-				D6C14FAE2C2184D300E5F3BF /* Model */,
-				D65D18012C209E05000720D3 /* Views */,
-				D65D17F12C20989D000720D3 /* Assets.xcassets */,
 				D68DE2482C23449100BABBAC /* Model.xcdatamodeld */,
+				D6C14FAE2C2184D300E5F3BF /* Persistance */,
+				D65D18012C209E05000720D3 /* Views */,
+				D68DE24B2C23450500BABBAC /* Preview Content */,
+				D65D17F12C20989D000720D3 /* Assets.xcassets */,
 			);
 			path = HydrationTracker;
 			sourceTree = "<group>";
@@ -84,32 +86,25 @@
 				D65D18042C209F14000720D3 /* SettingsView.swift */,
 				D65D18062C209F4D000720D3 /* AchievementsView.swift */,
 				D65D18082C209F8C000720D3 /* HistoryView.swift */,
+				D62CD9B92C256642004F72CD /* ChartView.swift */,
 			);
 			path = Views;
-			sourceTree = "<group>";
-		};
-		D67214502C21E3450076C4B8 /* Utilities */ = {
-			isa = PBXGroup;
-			children = (
-				D65D180C2C20A376000720D3 /* Utilities.swift */,
-			);
-			path = Utilities;
 			sourceTree = "<group>";
 		};
 		D68DE24B2C23450500BABBAC /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				D67214502C21E3450076C4B8 /* Utilities */,
+				D65D180C2C20A376000720D3 /* Utilities.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		D6C14FAE2C2184D300E5F3BF /* Model */ = {
+		D6C14FAE2C2184D300E5F3BF /* Persistance */ = {
 			isa = PBXGroup;
 			children = (
 				D6C14FB22C21855C00E5F3BF /* Persistence.swift */,
 			);
-			path = Model;
+			path = Persistance;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,6 +187,7 @@
 				D65D18052C209F14000720D3 /* SettingsView.swift in Sources */,
 				D65D17EE2C20989C000720D3 /* HydrationTrackerApp.swift in Sources */,
 				D65D180D2C20A376000720D3 /* Utilities.swift in Sources */,
+				D62CD9BA2C256642004F72CD /* ChartView.swift in Sources */,
 				D68DE24A2C23449200BABBAC /* Model.xcdatamodeld in Sources */,
 				D6C14FB32C21855C00E5F3BF /* Persistence.swift in Sources */,
 				D65D18002C20994F000720D3 /* ProgressCircle.swift in Sources */,

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D007C07C2C3D00A200D88225 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D007C07A2C3D00A200D88225 /* Model.xcdatamodeld */; };
 		D62CD9BA2C256642004F72CD /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D62CD9B92C256642004F72CD /* ChartView.swift */; };
 		D65D17EE2C20989C000720D3 /* HydrationTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D17ED2C20989C000720D3 /* HydrationTrackerApp.swift */; };
 		D65D17F22C20989D000720D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D65D17F12C20989D000720D3 /* Assets.xcassets */; };
@@ -17,11 +18,11 @@
 		D65D18072C209F4D000720D3 /* AchievementsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D18062C209F4D000720D3 /* AchievementsView.swift */; };
 		D65D18092C209F8C000720D3 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D18082C209F8C000720D3 /* HistoryView.swift */; };
 		D65D180D2C20A376000720D3 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65D180C2C20A376000720D3 /* Utilities.swift */; };
-		D68DE24A2C23449200BABBAC /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D68DE2482C23449100BABBAC /* Model.xcdatamodeld */; };
 		D6C14FB32C21855C00E5F3BF /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C14FB22C21855C00E5F3BF /* Persistence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D007C07B2C3D00A200D88225 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		D62CD9B92C256642004F72CD /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
 		D65D17EA2C20989C000720D3 /* HydrationTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HydrationTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D65D17ED2C20989C000720D3 /* HydrationTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HydrationTrackerApp.swift; sourceTree = "<group>"; };
@@ -33,7 +34,6 @@
 		D65D18062C209F4D000720D3 /* AchievementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsView.swift; sourceTree = "<group>"; };
 		D65D18082C209F8C000720D3 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
 		D65D180C2C20A376000720D3 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
-		D68DE2492C23449200BABBAC /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		D6C14FB22C21855C00E5F3BF /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,8 +67,8 @@
 		D65D17EC2C20989C000720D3 /* HydrationTracker */ = {
 			isa = PBXGroup;
 			children = (
+				D007C07A2C3D00A200D88225 /* Model.xcdatamodeld */,
 				D65D17ED2C20989C000720D3 /* HydrationTrackerApp.swift */,
-				D68DE2482C23449100BABBAC /* Model.xcdatamodeld */,
 				D6C14FAE2C2184D300E5F3BF /* Persistance */,
 				D65D18012C209E05000720D3 /* Views */,
 				D68DE24B2C23450500BABBAC /* Preview Content */,
@@ -188,8 +188,8 @@
 				D65D17EE2C20989C000720D3 /* HydrationTrackerApp.swift in Sources */,
 				D65D180D2C20A376000720D3 /* Utilities.swift in Sources */,
 				D62CD9BA2C256642004F72CD /* ChartView.swift in Sources */,
-				D68DE24A2C23449200BABBAC /* Model.xcdatamodeld in Sources */,
 				D6C14FB32C21855C00E5F3BF /* Persistence.swift in Sources */,
+				D007C07C2C3D00A200D88225 /* Model.xcdatamodeld in Sources */,
 				D65D18002C20994F000720D3 /* ProgressCircle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -398,14 +398,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		D68DE2482C23449100BABBAC /* Model.xcdatamodeld */ = {
+		D007C07A2C3D00A200D88225 /* Model.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				D68DE2492C23449200BABBAC /* Model.xcdatamodel */,
+				D007C07B2C3D00A200D88225 /* Model.xcdatamodel */,
 			);
-			currentVersion = D68DE2492C23449200BABBAC /* Model.xcdatamodel */;
-			name = Model.xcdatamodeld;
-			path = "/Users/ramjondhale/MEGAsync Downloads/HydrationTrackerAppIos/HydrationTracker/Model.xcdatamodeld";
+			currentVersion = D007C07B2C3D00A200D88225 /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
